@@ -3,7 +3,7 @@ MATLAB script for calculating action potentials propagation velocities using spi
 
 This script is associated with the publication
 
-Ana Rita Costa et al, "The membrane periodic skeleton is an actomyosin network that regulates axonal diameter and conduction", 2020
+Ana Rita Costa et al, "The membrane periodic skeleton is an actomyosin network that regulates axonal diameter and conduction", 2020 https://elifesciences.org/articles/55471
 
 
 
